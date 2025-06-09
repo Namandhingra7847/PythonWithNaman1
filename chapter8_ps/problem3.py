@@ -1,0 +1,5 @@
+print("n")
+print("a")
+print("m")
+print("a", end=" ")
+print("n", end=" ")
