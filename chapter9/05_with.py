@@ -8,4 +8,4 @@ f.close()
 with open("chapter9/n.txt", "r") as f:
     print(f.read())
 
-    # you don't have you explicity close the file
+    # you don't have you explicity close the file 
