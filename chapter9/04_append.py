@@ -1,4 +1,4 @@
-st = "hey naman , how are you"
+st = "hey naman , how are you\n"
 
 f = open("myfile.txt", "a")
 

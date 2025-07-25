@@ -1,8 +1,8 @@
 list = ["Naman", "Tushar", "Modi", "Monu"]
+lc = [n.lower() for n in list]
+name = input("enter your name: ").lower()
 
-name = input("enter your name: ")
-
-if(name in list):
+if(name in lc):
     print("your name in the list ")
 else:
     print("your name not in list")

@@ -1,8 +1,12 @@
 n = int(input("Enter the number: "))
 
-i = 1
+# i = 1
 sum = 0
-while(i<=n):
+# while(i<=n):
+#     sum += i
+#     i += 1
+# print(sum)
+
+for i in range(1, n + 1):
     sum += i
-    i += 1
-print(sum)
+print(f"the sum of first {n} natural number is {sum}")
