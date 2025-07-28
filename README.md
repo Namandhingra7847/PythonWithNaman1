@@ -1,5 +1,5 @@
 The Ultimate Python Course
-A complete guide to mastering Python programming – from the absolute basics to building real-world projects. This repo is part of The Ultimate Python Course by CodeWithHarry.
+A complete guide to mastering Python programming – from the absolute basics to building real-world projects. This repo is part of The Ultimate Python Course by CodeWithNaman.
 
 📘 Table of Contents
 📖 Introduction
@@ -41,7 +41,7 @@ A complete guide to mastering Python programming – from the absolute basics to
 🧭 How to Use This Repository
 
 📖 Introduction
-This repository is part of The Ultimate Python Course created by CodeWithHarry. It is designed to take you from beginner to confident Python developer by covering the core programming concepts, problem-solving, and project development.
+This repository is part of The Ultimate Python Course created by CodeWithNaman. It is designed to take you from beginner to confident Python developer by covering the core programming concepts, problem-solving, and project development.
 
 📚 Chapters
 1. Modules, Comments & pip
@@ -199,7 +199,7 @@ Functions, loops, and file handling tasks
 📎 Additional Resources
 Official Python Docs
 
-CodeWithHarry Python Playlist
+CodeWithNaman Python Playlist
 
 PyPI - Python Package Index
 
